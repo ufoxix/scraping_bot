@@ -1,0 +1,1 @@
+The App tries to find a free place in vfsglobal and send notice to telegram
